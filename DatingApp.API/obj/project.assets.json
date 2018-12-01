@@ -12138,11 +12138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\A218866\\Documents\\ExtraIntegrationPractice\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "c:\\Users\\A218866\\Documents\\ExtraIntegrationPractice\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "c:\\Users\\A218866\\Documents\\ExtraIntegrationPractice\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "c:\\Users\\A218866\\Documents\\ExtraIntegrationPractice\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\A218866\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\A218866\\Documents\\ExtraIntegrationPractice\\DatingApp.API\\obj\\",
+      "outputPath": "c:\\Users\\A218866\\Documents\\ExtraIntegrationPractice\\DatingApp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
