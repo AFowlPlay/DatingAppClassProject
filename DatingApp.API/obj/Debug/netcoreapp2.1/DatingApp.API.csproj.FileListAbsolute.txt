@@ -12,3 +12,17 @@ C:\Users\A218866\Documents\ExtraIntegrationPractice\DatingApp.API\obj\Debug\netc
 C:\Users\A218866\Documents\ExtraIntegrationPractice\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
 C:\Users\A218866\Documents\ExtraIntegrationPractice\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
 C:\Users\A218866\Documents\ExtraIntegrationPractice\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.deps.json
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.json
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.dev.json
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfo.cs
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\dev\GitPracticeWork\DatingAppClassProject\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
